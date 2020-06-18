@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8pDAcd9RN2gc+6lHFwhBQdEl5bOecrxFRoJWKrevoNgbqnpLnXvGQC4jEIR0ZX1vgmpy/kWJuK9Bq98Q1MHAXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leona\\source\\repos\\Robos\\Bot.MegaSena.Json\\Bot.MegaSena.Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

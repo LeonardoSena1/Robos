@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\Robos\Bot\Bot.MegaSena.Json\bin\Debug\netcoreapp3.1\Bot.MegaSena.Json.exe
+C:\Users\leona\source\repos\Robos\Bot\Bot.MegaSena.Json\bin\Debug\netcoreapp3.1\Bot.MegaSena.Json.deps.json
+C:\Users\leona\source\repos\Robos\Bot\Bot.MegaSena.Json\bin\Debug\netcoreapp3.1\Bot.MegaSena.Json.runtimeconfig.json
+C:\Users\leona\source\repos\Robos\Bot\Bot.MegaSena.Json\bin\Debug\netcoreapp3.1\Bot.MegaSena.Json.runtimeconfig.dev.json
+C:\Users\leona\source\repos\Robos\Bot\Bot.MegaSena.Json\bin\Debug\netcoreapp3.1\Bot.MegaSena.Json.dll
+C:\Users\leona\source\repos\Robos\Bot\Bot.MegaSena.Json\bin\Debug\netcoreapp3.1\Bot.MegaSena.Json.pdb
+C:\Users\leona\source\repos\Robos\Bot\Bot.MegaSena.Json\obj\Debug\netcoreapp3.1\Bot.MegaSena.Json.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\Robos\Bot\Bot.MegaSena.Json\obj\Debug\netcoreapp3.1\Bot.MegaSena.Json.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Robos\Bot\Bot.MegaSena.Json\obj\Debug\netcoreapp3.1\Bot.MegaSena.Json.AssemblyInfo.cs
+C:\Users\leona\source\repos\Robos\Bot\Bot.MegaSena.Json\obj\Debug\netcoreapp3.1\Bot.MegaSena.Json.dll
+C:\Users\leona\source\repos\Robos\Bot\Bot.MegaSena.Json\obj\Debug\netcoreapp3.1\Bot.MegaSena.Json.pdb
+C:\Users\leona\source\repos\Robos\Bot\Bot.MegaSena.Json\obj\Debug\netcoreapp3.1\Bot.MegaSena.Json.genruntimeconfig.cache
+C:\Users\leona\source\repos\Robos\Bot\Bot.MegaSena.Json\obj\Debug\netcoreapp3.1\Bot.MegaSena.Json.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Robos\Bot\Bot.MegaSena.Json\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leona\source\repos\Robos\Bot\Bot.MegaSena.Json\obj\Debug\netcoreapp3.1\Bot.MegaSena.Json.csproj.CopyComplete
